@@ -1,8 +1,8 @@
 SELECT 
-	COUNT(DISTINCT SpotifyClone.songs.song_name) AS 'cancoes',
-    COUNT(DISTINCT SpotifyClone.artists.artist_name) AS 'artistas',
-    COUNT(DISTINCT SpotifyClone.albums.album_name) AS 'albuns'
+	COUNT(DISTINCT songs.song_name) AS 'cancoes',
+    COUNT(DISTINCT artists.artist_name) AS 'artistas',
+    COUNT(DISTINCT albums.album_name) AS 'albuns'
 FROM 
-	SpotifyClone.songs,
-    SpotifyClone.artists,
-    SpotifyClone.albums;
+	SpotifyClone.songs AS songs,
+    SpotifyClone.artists AS artists,
+    SpotifyClone.albums AS albums;
