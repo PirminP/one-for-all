@@ -19,7 +19,7 @@
 
   | Task     | Description |
   | ----------- | ----------- |
-  | 1   |  |
+  | 1   | Creation of data base |
   | 2   |  |
   | 3   |  |
   | 4   |  |
