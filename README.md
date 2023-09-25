@@ -20,8 +20,8 @@
   | Task     | Description |
   | ----------- | ----------- |
   | 1   | Creation of data base |
-  | 2   |  |
-  | 3   |  |
+  | 2   | Query that displays the 'songs', 'artists' and 'albums' columns with their respective quantities |
+  | 3   | Query that displays the column of 'user' names with number of songs listened and total number of minutes played |
   | 4   |  |
   | 5   |  |
   | 6   |  |
