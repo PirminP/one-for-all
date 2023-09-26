@@ -1,6 +1,6 @@
 # Project One for All
 
-#### Using a database table containing a SpotifyClone, this project consists of normalizing the application's information and performing challenges to obtain the desired information using MySQL
+#### Using a database table containing a SpotifyClone, this project consists of normalizing the application's information and performing challenges to obtain the desired information using MySQL.
 
 * Designed by using MySQL & Docker
 * Applying knowledge of database normalization following Normal Forms
@@ -24,7 +24,7 @@
   | 3   | Query that displays the column of 'user' names with number of songs listened and total number of minutes played |
   | 4   | Query containing the name of 'user' and their condition regarding reproducing music tracks in 2021 (active or inactive) |
   | 5   | Query containing the two songs most played by users |
-  | 6   |  |
+  | 6   | Query containing users' minimum, maximum, average and total billings of all available plans |
   | 7   |  |
   | 8   |  |
   | 9   | - |
