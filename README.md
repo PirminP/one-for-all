@@ -22,7 +22,7 @@
   | 1   | Creation of data base |
   | 2   | Query that displays the 'songs', 'artists' and 'albums' columns with their respective quantities |
   | 3   | Query that displays the column of 'user' names with number of songs listened and total number of minutes played |
-  | 4   |  |
+  | 4   | Query containing the name of 'user' and their condition regarding reproducing music tracks in 2021 (active or inactive) |
   | 5   |  |
   | 6   |  |
   | 7   |  |
