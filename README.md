@@ -26,7 +26,7 @@
   | 5   | Query containing the two songs most played by users |
   | 6   | Query containing users' minimum, maximum, average and total billings of all available plans |
   | 7   | Query containing the names of 'artists', 'albums' and number of 'followers' of played music by user |
-  | 8   |  |
+  | 8   | Query containing the information of a specific artist about written albums, with columns 'artist' and 'albums' |
   | 9   | - |
   | 10  | - |
   | 11  | - |
