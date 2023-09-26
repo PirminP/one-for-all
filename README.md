@@ -25,7 +25,7 @@
   | 4   | Query containing the name of 'user' and their condition regarding reproducing music tracks in 2021 (active or inactive) |
   | 5   | Query containing the two songs most played by users |
   | 6   | Query containing users' minimum, maximum, average and total billings of all available plans |
-  | 7   |  |
+  | 7   | Query containing the names of 'artists', 'albums' and number of 'followers' of played music by user |
   | 8   |  |
   | 9   | - |
   | 10  | - |
